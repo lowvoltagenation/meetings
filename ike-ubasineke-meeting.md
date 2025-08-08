@@ -41,6 +41,24 @@ Empower leaders to never stop growing by helping them discover who they want to 
 - Community building strategies
 - Growth challenges you're facing that he might help with
 
+### AI Tools & Technology Consulting Opportunities
+- **Content Creation Enhancement**: AI tools for podcast transcription, show notes, and social media content generation
+- **Community Management**: Automated member engagement tracking, progress analytics, and personalized growth recommendations
+- **Coaching Efficiency**: AI-powered session summaries, action item tracking, and follow-up automation
+- **App Development**: Enhancing Growdie app with AI-driven personalization, habit tracking, and growth recommendations
+- **Data Analytics**: Member progress tracking, engagement metrics, and community health dashboards
+- **Marketing Automation**: AI-driven lead generation, email campaigns, and social media scheduling
+- **Event Management**: Automated retreat planning, participant matching, and experience optimization
+
+### How You Could Help Consult
+- **Technology Strategy**: Roadmap for integrating AI tools into his existing platforms and workflows
+- **Operational Efficiency**: Streamlining coaching processes, member management, and content creation workflows
+- **Growth Analytics**: Setting up systems to measure member progress, engagement, and community health
+- **Platform Integration**: Connecting his various tools (podcast, app, website, community) for seamless data flow
+- **Automation Implementation**: Reducing manual tasks while maintaining his emphasis on authentic relationships
+- **Content Amplification**: AI-assisted content repurposing from coaching sessions, podcasts, and workshops
+- **Scalability Solutions**: Technology infrastructure to support growing membership and expanding programs
+
 ### His Journey
 - His transition from burnout to becoming a growth coach
 - Lessons learned from 15+ years in leadership development
